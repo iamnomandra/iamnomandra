@@ -9,7 +9,7 @@
 - **Mobile**: Android apps with Java.
 - **Desktop**: Sleek desktop applications for Windows.
  
-📫 How to reach me **iamnomandra** 
+📫 How to reach me **@iamnomandra** 
 <p align="left">
 <a href="https://dev.to/iamnomandra" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="iamnomandra" height="30" width="40" /></a>   
  <a href="https://www.upwork.com/freelancers/iamnomandra" target="blank"><img align="center" src="https://static-00.iconduck.com/assets.00/upwork-icon-512x512-myk0wgad.png" alt="iamnomandra" height="30" width="40" /></a>   
