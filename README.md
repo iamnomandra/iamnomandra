@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Amit Kumar</h1>
-<h3 align="center">A passionate Full Stack Developer with .NET Core, React,</br> Angular, Android apps plus sleek desktop application.</h3>
+<h3 align="center">A passionate Full Stack Developer with .NET Core, React, Angular, </br>Android apps plus sleek desktop application with SQL Server.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=iamnomandra&label=Profile%20views&color=0e75b6&style=flat" alt="iamnomandra" /> </p>
 
