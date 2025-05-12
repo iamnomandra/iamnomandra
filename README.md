@@ -15,4 +15,3 @@
  <a href="https://www.upwork.com/freelancers/iamnomandra" target="blank"><img align="center" src="https://static-00.iconduck.com/assets.00/upwork-icon-512x512-myk0wgad.png" alt="iamnomandra" height="30" width="40" /></a>   
 </p>
 
-✨ *Mystical coder crafting tech magic!*
