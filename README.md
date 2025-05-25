@@ -6,8 +6,8 @@
 ## 🔧 What I Do 
 - **Backend**: .NET Core APIs with Generic Repository for scalable solutions.
 - **Frontend**: React  & Angular for dynamic apps.
-- **Mobile**: Android apps with Java.
-- **Desktop**: Sleek desktop applications for Windows.
+- **Mobile**: Android App.
+- **Desktop**: Desktop applications for Windows.
  
 📫 How to reach me **@iamnomandra** 
 <p align="left">
