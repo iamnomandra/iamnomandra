@@ -1,5 +1,12 @@
-<h1 align="center">Hi 👋, I'm Amit Kumar From India 🇮🇳</h1>
-<h3 align="center">A passionate Full Stack Developer with .NET Core, React, Angular, </br>Android apps plus sleek desktop application with SQL Server.</h3>
+<h3 align="center">
+  Hi 👋, I'm <em>Amit Kumar</em> From India <em>🇮🇳</em> 
+</h3> 
+<h4 align="center" style="font-size:16px; color: #555;">
+  A Passionate Full Stack Developer with <strong>.NET Core</strong>, <strong>React</strong>, <strong>Angular</strong>, <br/>
+  📱Android apps plus sleek 🖥️Desktop application with 🗄️SQL Server. 
+</h4>
+
+
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=iamnomandra&label=Profile%20views&color=0e75b6&style=flat" alt="iamnomandra" /> </p>
   
 ## 🔧 What I Do
@@ -39,7 +46,7 @@
   <img src="https://img.shields.io/badge/-Xamarin-3498DB?style=for-the-badge&logo=xamarin&logoColor=white" alt="Xamarin" />
   <img src="https://img.shields.io/badge/-FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white" alt="FastAPI" />
 </p>
-
+ 
 <h2 align="left">📫 How to reach me</h2>
 <p align="left">
   <a href="https://dev.to/iamnomandra" target="_blank" rel="noreferrer">
