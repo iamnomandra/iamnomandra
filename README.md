@@ -6,8 +6,11 @@
   📱Android apps plus sleek 🖥️Desktop application with 🗄️SQL Server. 
 </h4>
 
-
-<p align="center"> <img src="https://komarev.com/ghpvc/?username=iamnomandra&label=Profile%20views&color=0e75b6&style=flat" alt="iamnomandra" /> </p>
+ 
+<p align="center"> 
+  <img src="https://img.shields.io/badge/Profile-iamnomandra-blue?style=flat-square&logo=github"/>  
+  <img src="https://komarev.com/ghpvc/?username=iamnomandra&label=Profile%20views&color=0e75b6&style=flat" alt="iamnomandra" /> 
+</p>
   
 ## 🔧 What I Do
 
