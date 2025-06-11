@@ -11,9 +11,9 @@
   
 ## 🔧 What I Do
 
-- ⚙️ **Backend:** _Scalable APIs and services using_ **.NET Core** _with_ Generic Repository _pattern._
+- ⚙️ **Backend:** _Scalable APIs and services using_ **NodeJs** , **Python FastAPI** _and_ **.NET Core** _with_ Generic Repository _pattern_ 
 
-- 🎨 **Frontend:** _Dynamic and responsive web apps built with_ **React** _and_ **Angular**.
+- 🎨 **Frontend:** _Dynamic and responsive web apps built with_  **Razor**, **React** _and_ **Angular**.
 
 - 📱 **Mobile:** _Intuitive and performant_ **Android** _applications tailored for user needs._
 
