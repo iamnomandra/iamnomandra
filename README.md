@@ -1,6 +1,6 @@
-<h3 align="center">
+<h2 align="center">
   Hi 👋, I'm <em>Amit Kumar</em> From India <em>🇮🇳</em> 
-</h3> 
+</h2> 
 <h4 align="center" style="font-size:16px; color: #555;">
   A Passionate Full Stack Developer with <strong>.NET Core</strong>, <strong>React</strong>, <strong>Angular</strong>, <br/>
   📱Android apps plus sleek 🖥️Desktop application with 🗄️SQL Server. 
