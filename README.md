@@ -61,5 +61,5 @@
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
   </a>
 </p>
-
-## 💼 Available for Freelance Work | 💡 Let’s Collaborate on Your Next Big Idea.
+</br>
+<h2 align="left">💼 Available for Freelance Work | 💡 Let’s Collaborate on Your Next Big Idea.</h2> 
