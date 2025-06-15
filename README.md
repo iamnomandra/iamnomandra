@@ -3,7 +3,7 @@
 </h2> 
 <h4 align="center" style="font-size:16px; color: #555;">
   A Passionate Full Stack Developer with <strong>.NET Core</strong>, <strong>React</strong>, <strong>Angular</strong>, <br/>
-  📱Android apps plus sleek 🖥️Desktop application with 🗄️SQL Server. 
+  📱Android apps plus sleek 🖥️Desktop application with 🗄️SQL & noSQL. 
 </h4>
 
  
