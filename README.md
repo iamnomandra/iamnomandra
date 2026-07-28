@@ -23,9 +23,8 @@
 - 🖥️ **Desktop:**  _Robust desktop solutions for_ **Windows** _platforms._
 
 <h2 align="left">🛠️ Languages and Tools</h2>
-<p align="left" style="display: inline-block;">
-  <img src="https://img.shields.io/badge/-Android-3DDC84?style=for-the-badge&logo=android&logoColor=white" alt="Android" />
-  <img src="https://img.shields.io/badge/-Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white" alt="Angular" />
+<p align="left">
+  <img src="https://img.shields.io/badge/-Android-3DDC84?style=for-the-badge&logo=android&logoColor=white" alt="Android" /><img src="https://img.shields.io/badge/-Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white" alt="Angular" />
   <img src="https://img.shields.io/badge/-Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white" alt="Bootstrap" />
   <img src="https://img.shields.io/badge/-Chart.js-303030?style=for-the-badge&logo=chartdotjs&logoColor=white" alt="Chart.js" />
   <img src="https://img.shields.io/badge/-C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white" alt="C#" />
@@ -54,12 +53,10 @@
 <p align="left">
   <a href="https://dev.to/iamnomandra" target="_blank" rel="noreferrer">
     <img src="https://img.shields.io/badge/Dev.to-000000?style=for-the-badge&logo=dev-dot-to&logoColor=white" alt="Dev.to" />
-  </a>
-  &nbsp;&nbsp;
+  </a> 
   <a href="https://www.upwork.com/freelancers/iamnomandra" target="_blank" rel="noreferrer">
     <img src="https://img.shields.io/badge/Upwork-6fda44?style=for-the-badge&logo=upwork&logoColor=white" alt="Upwork" />
-  </a>
-  &nbsp;&nbsp;
+  </a> 
   <a href="mailto:iamnomandra@gmail.com" target="_blank" rel="noreferrer">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
   </a>
