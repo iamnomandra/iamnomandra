@@ -23,7 +23,7 @@
 - 🖥️ **Desktop:**  _Robust desktop solutions for_ **Windows** _platforms._
 
 <h2 align="left">🛠️ Languages and Tools</h2>
-<p align="left">
+<p align="left" style="display: inline-block;">
   <img src="https://img.shields.io/badge/-Android-3DDC84?style=for-the-badge&logo=android&logoColor=white" alt="Android" />
   <img src="https://img.shields.io/badge/-Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white" alt="Angular" />
   <img src="https://img.shields.io/badge/-Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white" alt="Bootstrap" />
