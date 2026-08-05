@@ -38,4 +38,7 @@
   </a>
 </p>
 </br>
-<h2 align="left">💼 Available for Freelance Work | 💡 Let’s Collaborate on Your Next Big Idea.</h2> 
+<h3>
+  💼 Enterprise AI, .NET & Digital Transformation Consulting</h3>
+
+#### Helping organizations unlock the value of their data through AI-powered search, intelligent automation, and modern .NET enterprise solutions.
