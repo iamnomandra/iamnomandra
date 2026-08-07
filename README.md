@@ -21,7 +21,7 @@
 
 - 🖥️ **Desktop:**  _Robust desktop solutions for_ **Windows** _platforms._
 
-- 🧠 **AI & Deep Learning:**  _Engineering custom Large Language Models (LLMs) from scratch. Deeply involved in training a Mixture of Experts (MoE) architecture, implementing custom BPE tokenizers, writing custom loss functions, and optimizing PyTorch training loops._
+- 🧠 **AI & Deep Learning:**  _Engineering custom Large Language Models (LLMs) from scratch. Deeply involved in training a Mixture of Experts (MoE) architecture, implementing custom BPE tokenizer, writing custom loss functions, and optimizing PyTorch training loops._
 
 <h2 align="left">🛠️ Languages and Tools</h2>
 <p align="center" style="display:ruby">
