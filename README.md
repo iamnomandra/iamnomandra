@@ -4,9 +4,8 @@
 <h4 align="center" style="font-size:16px; color: #555;">
   A Passionate Full Stack Developer with <strong>.NET Core</strong>, <strong>React</strong>, <strong>Angular</strong>, <br/>
   📱Android apps plus sleek 🖥️Desktop application with 🗄️SQL & noSQL. 
-</h4>
+</h4> 
 
- 
 <p align="center"> 
   <img src="https://img.shields.io/badge/Profile-iamnomandra-blue?style=flat-square&logo=github"/>  
   <img src="https://komarev.com/ghpvc/?username=iamnomandra&label=Profile%20views&color=0e75b6&style=flat" alt="iamnomandra" /> 
@@ -72,8 +71,7 @@
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
   </a>
 </p>
-</br>
-<h3>
-  💼 Enterprise AI, .NET & Digital Transformation Consulting</h3>
+
+<h3> 💼 Enterprise AI, .NET & Digital Transformation Consulting</h3>
 
 #### Helping organizations unlock the value of their data through AI-powered search, intelligent automation, and modern .NET enterprise solutions.
