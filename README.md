@@ -2,8 +2,8 @@
   Hi 👋, I'm <em>Amit Kumar</em> From India <em>🇮🇳</em> 
 </h2> 
 <h4 align="center" style="font-size:16px; color: #555;">
-  A Passionate Full Stack Developer with <strong>.NET Core</strong>, <strong>React</strong>, <strong>Angular</strong>, <br/>
-  📱Android apps plus sleek 🖥️Desktop application with 🗄️SQL & noSQL. 
+  A Passionate Full Stack Developer specializing in <strong>.NET Core</strong>, <strong>React</strong>, and <strong>Angular</strong>.<br/>
+  Crafting intuitive 📱 Android & sleek 🖥️ Desktop apps, powered by 🗄️ SQL/NoSQL and 🧠 AI & Deep Learning.
 </h4> 
 
 <p align="center"> 
